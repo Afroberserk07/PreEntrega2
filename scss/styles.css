@@ -70,8 +70,8 @@ img:hover {
   }
 }
 .container {
-  background-color: #8e8e8e;
-  color: #e5e5e5;
+  background-color: #e5e5e5;
+  color: #333;
   border: #fff;
 }
 
@@ -89,7 +89,7 @@ img:hover {
 
 img {
   border-color: #333;
-  border-radius: 54%;
+  border-radius: 30%;
 }
 
 /*!
