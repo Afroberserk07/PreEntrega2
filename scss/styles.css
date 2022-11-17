@@ -70,9 +70,9 @@ img:hover {
   }
 }
 .container {
-  background-color: #e5e5e5;
-  color: #333;
-  border: #fff;
+  background-color: #020202;
+  color: rgba(255, 255, 255, 0.877);
+  border: rgb(0, 0, 0);
 }
 
 .card {
